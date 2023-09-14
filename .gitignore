@@ -4,3 +4,5 @@ pkg
 .*.sw?
 Gemfile.lock
 *.gem
+.bundle
+vendor
